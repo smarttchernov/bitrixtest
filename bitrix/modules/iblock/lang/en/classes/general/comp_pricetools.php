@@ -1,0 +1,3 @@
+<?
+$MESS["IB_CATALOG_DEFAULT_MEASURE_SHORT_NAME"] = "pc";
+?>
