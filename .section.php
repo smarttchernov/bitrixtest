@@ -1,9 +1,9 @@
 <?
 $sSectionName = 'Главная';
 $arDirProperties = array(
-	'title' => 'Изучение битрикса',
+	'title' => 'Тестирование Битрикса',
 	'description' => 'Минздрав предупреждает - Битрикс вредит здоровью',
-	'keywords' => '1с, 1с битрикс, bitrix',
+	'keywords' => 'Keywords',
 	'robots' => 'index, follow'
 );
 ?>

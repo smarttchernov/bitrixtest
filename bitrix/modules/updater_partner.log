@@ -1,16 +1,16 @@
-2014-04-18 03:54:28 -  - exec CUpdateClientPartner::SearchModulesEx
-2014-04-18 03:54:28 -  - exec CUpdateClientPartner::__CollectRequestData
-2014-04-18 03:54:29 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrixtest.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.5.10&dbv=5.6.17&instm=main%2C14.5.0%2CY%3Bbitrix.sitecorporate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C14.5.0%2CN%3Bbitrix.sitepersonal%2C14.5.0%2CN%3Bbitrixcloud%2C14.0.4%2CN%3Bblog%2C14.5.0%2CN%3Bclouds%2C14.5.0%2CN%3Bcompression%2C14.0.0%2CN%3Bfileman%2C14.5.0%2CN%3Bform%2C14.0.1%2CN%3Bforum%2C14.5.0%2CN%3Bhighloadblock%2C14.0.6%2CN%3Biblock%2C14.5.0%2CN%3Bmobileapp%2C14.0.3%2CN%3Bperfmon%2C14.0.1%2CN%3Bphotogallery%2C14.5.0%2CN%3Bscale%2C14.5.0%2CN%3Bsearch%2C14.5.0%2CN%3Bsecurity%2C14.0.11%2CN%3Bseo%2C14.0.6%2CN%3Bsocialservices%2C14.0.4%2CN%3Bsubscribe%2C14.5.0%2CN%3Bvote%2C14.0.2%2CN&search_module_id=&search_module=&search_category=7%2C14&search_type=&search_order=DESC&search_order_by=SORT&search_page=1
-2014-04-18 03:54:29 -  - exec CUpdateClientPartner::GetHTTPPage
-2014-04-18 03:54:32 -  - TIME SearchModulesEx(request) 3.202 sec
-2014-04-18 03:54:32 -  - exec CUpdateClientPartner::ParseServerData
-2014-04-18 03:54:49 -  - exec CUpdateClientPartner::LoadModuleNoDemand
-2014-04-18 03:54:49 -  - exec CUpdateClientPartner::__CollectRequestData
-2014-04-18 03:54:50 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrixtest.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.5.10&dbv=5.6.17&instm=main%2C14.5.0%2CY%3Bbitrix.sitecorporate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C14.5.0%2CN%3Bbitrix.sitepersonal%2C14.5.0%2CN%3Bbitrixcloud%2C14.0.4%2CN%3Bblog%2C14.5.0%2CN%3Bclouds%2C14.5.0%2CN%3Bcompression%2C14.0.0%2CN%3Bfileman%2C14.5.0%2CN%3Bform%2C14.0.1%2CN%3Bforum%2C14.5.0%2CN%3Bhighloadblock%2C14.0.6%2CN%3Biblock%2C14.5.0%2CN%3Bmobileapp%2C14.0.3%2CN%3Bperfmon%2C14.0.1%2CN%3Bphotogallery%2C14.5.0%2CN%3Bscale%2C14.5.0%2CN%3Bsearch%2C14.5.0%2CN%3Bsecurity%2C14.0.11%2CN%3Bseo%2C14.0.6%2CN%3Bsocialservices%2C14.0.4%2CN%3Bsubscribe%2C14.5.0%2CN%3Bvote%2C14.0.2%2CN&reqm=nsandrey.emptyinstall&lim=Y
-2014-04-18 03:54:50 -  - exec CUpdateClientPartner::GetHTTPPage
-2014-04-18 03:54:50 -  - TIME LoadModuleNoDemand(request) 0.778 sec
-2014-04-18 03:54:50 -  - exec CUpdateClientPartner::UnGzipArchive
-2014-04-18 03:54:51 -  - TIME UnGzipArchive 0.501 sec
-2014-04-18 03:54:51 -  - exec CUpdateClientPartner::GetStepUpdateInfo
-2014-04-18 03:54:51 -  - exec CUpdateClientPartner::ParseServerData
-2014-04-18 03:54:52 -  - TIME UpdateStepModules 0.681 sec
+2014-04-19 01:38:19 -  - exec CUpdateClientPartner::SearchModulesEx
+2014-04-19 01:38:19 -  - exec CUpdateClientPartner::__CollectRequestData
+2014-04-19 01:38:20 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrixtest.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.5.10&dbv=5.6.17&instm=main%2C14.5.0%2CY%3Bbitrix.sitecorporate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C14.5.0%2CN%3Bbitrix.sitepersonal%2C14.5.0%2CN%3Bbitrixcloud%2C14.0.4%2CN%3Bblog%2C14.5.0%2CN%3Bclouds%2C14.5.0%2CN%3Bcompression%2C14.0.0%2CN%3Bfileman%2C14.5.0%2CN%3Bform%2C14.0.1%2CN%3Bforum%2C14.5.0%2CN%3Bhighloadblock%2C14.0.6%2CN%3Biblock%2C14.5.0%2CN%3Bmobileapp%2C14.0.3%2CN%3Bperfmon%2C14.0.1%2CN%3Bphotogallery%2C14.5.0%2CN%3Bscale%2C14.5.0%2CN%3Bsearch%2C14.5.0%2CN%3Bsecurity%2C14.0.11%2CN%3Bseo%2C14.0.6%2CN%3Bsocialservices%2C14.0.4%2CN%3Bsubscribe%2C14.5.0%2CN%3Bvote%2C14.0.2%2CN&search_module_id=&search_module=&search_category=7%2C14&search_type=&search_order=DESC&search_order_by=SORT&search_page=1
+2014-04-19 01:38:20 -  - exec CUpdateClientPartner::GetHTTPPage
+2014-04-19 01:38:22 -  - TIME SearchModulesEx(request) 1.974 sec
+2014-04-19 01:38:22 -  - exec CUpdateClientPartner::ParseServerData
+2014-04-19 01:38:46 -  - exec CUpdateClientPartner::LoadModuleNoDemand
+2014-04-19 01:38:46 -  - exec CUpdateClientPartner::__CollectRequestData
+2014-04-19 01:38:46 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrixtest.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.5.10&dbv=5.6.17&instm=main%2C14.5.0%2CY%3Bbitrix.sitecorporate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C14.5.0%2CN%3Bbitrix.sitepersonal%2C14.5.0%2CN%3Bbitrixcloud%2C14.0.4%2CN%3Bblog%2C14.5.0%2CN%3Bclouds%2C14.5.0%2CN%3Bcompression%2C14.0.0%2CN%3Bfileman%2C14.5.0%2CN%3Bform%2C14.0.1%2CN%3Bforum%2C14.5.0%2CN%3Bhighloadblock%2C14.0.6%2CN%3Biblock%2C14.5.0%2CN%3Bmobileapp%2C14.0.3%2CN%3Bperfmon%2C14.0.1%2CN%3Bphotogallery%2C14.5.0%2CN%3Bscale%2C14.5.0%2CN%3Bsearch%2C14.5.0%2CN%3Bsecurity%2C14.0.11%2CN%3Bseo%2C14.0.6%2CN%3Bsocialservices%2C14.0.4%2CN%3Bsubscribe%2C14.5.0%2CN%3Bvote%2C14.0.2%2CN&reqm=nsandrey.emptyinstall&lim=Y
+2014-04-19 01:38:46 -  - exec CUpdateClientPartner::GetHTTPPage
+2014-04-19 01:38:47 -  - TIME LoadModuleNoDemand(request) 0.626 sec
+2014-04-19 01:38:47 -  - exec CUpdateClientPartner::UnGzipArchive
+2014-04-19 01:38:47 -  - TIME UnGzipArchive 0.216 sec
+2014-04-19 01:38:47 -  - exec CUpdateClientPartner::GetStepUpdateInfo
+2014-04-19 01:38:47 -  - exec CUpdateClientPartner::ParseServerData
+2014-04-19 01:38:47 -  - TIME UpdateStepModules 0.338 sec

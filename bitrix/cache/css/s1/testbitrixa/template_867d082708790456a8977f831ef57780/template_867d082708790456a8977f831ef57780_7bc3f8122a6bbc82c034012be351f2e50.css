@@ -1,0 +1,69 @@
+
+/* Start:/bitrix/templates/testbitrixa/template_styles.css*/
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family:Arial; font-size:14px;
+	margin: 0;
+	padding: 0;
+	color: #000;
+	background:url('/bitrix/templates/testbitrixa/images/bgsite.jpg');
+}
+ul, ol, dl { 
+    padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 
+	padding-right: 15px;
+	padding-left: 15px;
+}
+a img { 
+	border: none;
+}
+a {
+	color: #09F;
+}
+
+a:hover { 
+	text-decoration: none;
+}
+header, section, footer, aside, nav, article, figure {
+	display: block;
+}
+
+.it_asist { clear:both; height:0px;}
+
+.container { background:#fff; width:1024px; float:left; padding:15px;
+box-shadow:0px 0px 20px #999;
+-moz-box-shadow:0px 0px 20px #999;
+-webkit-box-shadow:0px 0px 20px #999;
+-o-box-shadow:0px 0px 20px #999;
+}
+
+header { height:60px; width:100%;}
+a.logotype { float:left;}
+ 
+nav { float:left; margin:15px 0px 0px 20px;}
+nav ul { list-style:none; }
+nav li { display:inline;}
+nav li a { font-size:17px; padding:10px 0px 2px 0px; margin:0px 15px; text-decoration:none;}
+nav li a:hover { border-bottom:2px #F90 solid;}
+
+.contacts { float:right; font-size:13px;}
+.contacts span { color:#FF9900; font-size:17px;}
+.contacts b {color:#006ecc; font-size:20px;}
+
+
+
+section {}
+aside.left { float:left; width:222px;}
+aside.right { float:right; width:210px;}
+article { float:left; width:500px; margin-left:25px; background:url('/bitrix/templates/testbitrixa/images/article_comp.png') right bottom no-repeat;
+padding:0px 50px 50px 0px;}
+
+
+footer { border-top:#F90 2px solid; height:60px;}
+
+/* End */
