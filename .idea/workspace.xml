@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ad21bab-e69f-4c2e-ac11-c0e22dc0ef1f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/testbitrixa/images/article_comp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/testbitrixa/images/bgsite.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/testbitrixa/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cake_config_setting_v0_5.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e4/e46a7cd1240e5249e769c3b594014c74.php" afterPath="" />
       <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\.gitignore" afterPath="" />
       <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\bitrix\cache\css\s1\studybitrix\kernel_main\kernel_main.css" afterPath="" />
       <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\bitrix\cache\css\s1\studybitrix\kernel_main\kernel_main0.css" afterPath="" />
@@ -48,13 +45,36 @@
       <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-18\04\283e67b3f7f328ba0300b1143afe7e35\smile_sad.png" afterPath="" />
       <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-18\04\283e67b3f7f328ba0300b1143afe7e35\smile_smile.png" afterPath="" />
       <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-18\04\283e67b3f7f328ba0300b1143afe7e35\smile_wink.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.section.php" afterPath="$PROJECT_DIR$/.section.php" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\icon1.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\icon2.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\icon3.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\icon4.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\icon5.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\icon6.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\icon7.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\install.csv" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\install_lang_de.csv" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\install_lang_en.csv" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\install_lang_ru.csv" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_biggrin.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_confuse.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_cool.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_cry.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_eek.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_evil.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_exclaim.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_idea.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_kiss.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_neutral.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_question.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_redface.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_sad.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_smile.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\bitrixtest.loc\upload\tmp\BXTEMP-2014-04-19\02\7027f4a64731583a966dedcbdd9a40a4\smile_wink.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/01/0188d3b3a37dc7ecc0c406ecb1ddeb6f.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/01/0188d3b3a37dc7ecc0c406ecb1ddeb6f.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/05/0577fb7070670b73d379386858657a6e.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/05/0577fb7070670b73d379386858657a6e.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/16/16908b0605f2645dfcb4c3a8d248cef3.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/16/16908b0605f2645dfcb4c3a8d248cef3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/modules_css/26/262c58d032ce3e619e0ca3cc2830d98a.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/modules_css/26/262c58d032ce3e619e0ca3cc2830d98a.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/27/27850a3654870e28053dd5b6d2051c3e.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/27/27850a3654870e28053dd5b6d2051c3e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/27/27d1e53c214abb6ad3ffa27f9cb319c6.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/27/27d1e53c214abb6ad3ffa27f9cb319c6.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/28/28976769ed03dceeac01ae0d1c0e331d.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/28/28976769ed03dceeac01ae0d1c0e331d.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_sec_filter_mask/3e/3e109cefdbde61bf61a07dc79523b3a8.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_sec_filter_mask/3e/3e109cefdbde61bf61a07dc79523b3a8.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/41/416acb540279140f55ddb5b83b7646b7.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/41/416acb540279140f55ddb5b83b7646b7.php" />
@@ -62,39 +82,39 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/4d/4ddd3d008a59ee248a70e8d70e0f258e.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/4d/4ddd3d008a59ee248a70e8d70e0f258e.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/55/5585b8ebad58e8064a1c7284562b5b47.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/55/5585b8ebad58e8064a1c7284562b5b47.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/site_checker/5c/5c6da7e88d19bbeee0ae40ae271e99a1.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/site_checker/5c/5c6da7e88d19bbeee0ae40ae271e99a1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_stickers_count/62/6266f359eb1867e621db08688d20bd4f.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_stickers_count/62/6266f359eb1867e621db08688d20bd4f.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/65/65b7157158e194d714f3a0c683f9afce.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/65/65b7157158e194d714f3a0c683f9afce.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/67/676186d848f3e2c452a086a860975cfa.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/67/676186d848f3e2c452a086a860975cfa.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/68/68878f8d908da869005ed3b1bbb77198.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/68/68878f8d908da869005ed3b1bbb77198.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/74/74ae411d554f04027801d562a04ad6e2.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/74/74ae411d554f04027801d562a04ad6e2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/agents/76/76ee4ad3b12ba3471b5273d26f48b51b.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/agents/76/76ee4ad3b12ba3471b5273d26f48b51b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_stickers_count/7f/7fc4397ba7ee936b5a62098f7cd6745a.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_stickers_count/7f/7fc4397ba7ee936b5a62098f7cd6745a.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/80/80d0df1c506cfa11d255d489ea901529.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/80/80d0df1c506cfa11d255d489ea901529.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/87/873202c2404c65d99ea73d27b5cfa2d5.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/87/873202c2404c65d99ea73d27b5cfa2d5.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/8a/8a6771cf0faa05bbec84465de484e41d.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/8a/8a6771cf0faa05bbec84465de484e41d.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_stickers_count/90/9025e60f0933010fc3419e4b9ce2beed.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_stickers_count/90/9025e60f0933010fc3419e4b9ce2beed.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/9a/9af5a4c25331d8bd4c5d68555ab1f760.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/9a/9af5a4c25331d8bd4c5d68555ab1f760.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/9d/9d770be383fbf2ecb49deb3d4f922408.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/9d/9d770be383fbf2ecb49deb3d4f922408.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task/9d/9d8c68225868ee036081eef8be4a9b38.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task/9d/9d8c68225868ee036081eef8be4a9b38.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/aa/aac7c831cdd8f2b58559c862f99bf946.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/aa/aac7c831cdd8f2b58559c862f99bf946.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/b2/b21d3c2ec406ac96b9b443675c383d36.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/b2/b21d3c2ec406ac96b9b443675c383d36.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/b2/b2405e0fd2bec8e8480579e5f5fd3162.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/b2/b2405e0fd2bec8e8480579e5f5fd3162.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b3/b3d102e05659b57fe9571855dab3fb50.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b3/b3d102e05659b57fe9571855dab3fb50.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/bd/bd21575483a0787a72df6dead4cb9a56.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/bd/bd21575483a0787a72df6dead4cb9a56.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/bd/bda1eed3dc15287945960c947a0cc6bc.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/bd/bda1eed3dc15287945960c947a0cc6bc.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/c0/c0a6035229545c96522ff35e2b8c37a0.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/c0/c0a6035229545c96522ff35e2b8c37a0.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_stickers_count/c1/c12789a02c6eefb8078067a75ada9014.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_stickers_count/c1/c12789a02c6eefb8078067a75ada9014.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/c5/c50f038ed6291a78ea68e4a590830017.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/c5/c50f038ed6291a78ea68e4a590830017.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/cache/medialib/types/d1/d1cf12f4520f651e0fa5d54ee9301d94.php" afterPath="$PROJECT_DIR$/bitrix/cache/medialib/types/d1/d1cf12f4520f651e0fa5d54ee9301d94.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/d1/d1fcc4d6b01472eb4145c2317c425042.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/d1/d1fcc4d6b01472eb4145c2317c425042.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/d7/d77b0d35f2942a8b09ddcc0e39c7bb57.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/d7/d77b0d35f2942a8b09ddcc0e39c7bb57.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/modules/main/admin/define.php" afterPath="$PROJECT_DIR$/bitrix/modules/main/admin/define.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e4/e46a7cd1240e5249e769c3b594014c74.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e4/e46a7cd1240e5249e769c3b594014c74.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/e5/e56397d99b3a76ae3f02219877fed2c7.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/e5/e56397d99b3a76ae3f02219877fed2c7.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e6/e6de97c4d404954fc411cff4540da30a.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e6/e6de97c4d404954fc411cff4540da30a.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/ec/eca380947aa83b89ebfde8658c6bb7b6.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/ec/eca380947aa83b89ebfde8658c6bb7b6.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/f0/f0fc06318e8ac66f82152783eff5c4d8.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/f0/f0fc06318e8ac66f82152783eff5c4d8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/f8/f8aa25bde9b456c6549a597dc3ee0512.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/f8/f8aa25bde9b456c6549a597dc3ee0512.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fb/fbebca4e0e7b3b5d5031caeb6b93a51f.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fb/fbebca4e0e7b3b5d5031caeb6b93a51f.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/site_checker/fe/fe281fe196231c8d5d04f39a286c1fd5.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/site_checker/fe/fe281fe196231c8d5d04f39a286c1fd5.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/license_key.php" afterPath="$PROJECT_DIR$/bitrix/license_key.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/modules/updater_partner.log" afterPath="$PROJECT_DIR$/bitrix/modules/updater_partner.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/fc/fc70ad1863cba1f1760c13e7b4e20a98.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/fc/fc70ad1863cba1f1760c13e7b4e20a98.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/novosti/index.php" afterPath="$PROJECT_DIR$/novosti/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uslugi/index.php" afterPath="$PROJECT_DIR$/uslugi/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bitrixtest.loc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -117,41 +137,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/header.php">
+      <file leaf-file-name="template.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news/services/bitrix/news.detail/.default/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="464">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1264">
               <folding>
-                <element signature="e#357#385#0" expanded="true" />
-                <element signature="e#514#531#0" expanded="true" />
+                <marker date="1397923853119" expanded="true" signature="96:2706" placeholder="..." />
+                <marker date="1397923853119" expanded="false" signature="1316:1326" placeholder="..." />
+                <marker date="1397923853119" expanded="true" signature="2206:2687" placeholder="..." />
+                <marker date="1397923853119" expanded="true" signature="2219:2678" placeholder="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/templates/testbitrixa/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="4" selection-start="474" selection-end="1184" vertical-scroll-proportion="-23.68" vertical-offset="0" max-vertical-offset="1216">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bitrix/templates/testbitrixa/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="36" selection-start="577" selection-end="577" vertical-scroll-proportion="0.31924883" vertical-offset="0" max-vertical-offset="852">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template_styles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/templates/testbitrixa/template_styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="13" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="1152">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -259,10 +254,6 @@
               <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testbitrixa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -346,11 +337,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="top_menu" />
+              <option name="myItemId" value="news" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -443,11 +430,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32890365" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Heroku" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -488,16 +475,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="464">
-          <folding>
-            <element signature="e#357#385#0" expanded="true" />
-            <element signature="e#514#531#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bitrix/templates/testbitrixa/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="877">
@@ -519,13 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/testbitrixa/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="4" selection-start="474" selection-end="1184" vertical-scroll-proportion="-23.68" vertical-offset="0" max-vertical-offset="1216">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.top.menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="877">
@@ -533,10 +503,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/uslugi/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1280">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bitrix/templates/testbitrixa/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="36" selection-start="577" selection-end="577" vertical-scroll-proportion="0.31924883" vertical-offset="0" max-vertical-offset="852">
+        <state line="17" column="36" selection-start="577" selection-end="577" vertical-scroll-proportion="0.4900901" vertical-offset="0" max-vertical-offset="704">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/testbitrixa/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="4" selection-start="474" selection-end="1184" vertical-scroll-proportion="1.0666667" vertical-offset="0" max-vertical-offset="1216">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="464">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news/services/bitrix/news.detail/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1264">
+          <folding>
+            <marker date="1397923853119" expanded="true" signature="96:2706" placeholder="..." />
+            <marker date="1397923853119" expanded="false" signature="1316:1326" placeholder="..." />
+            <marker date="1397923853119" expanded="true" signature="2206:2687" placeholder="..." />
+            <marker date="1397923853119" expanded="true" signature="2219:2678" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
